@@ -3,12 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Laravel</title>
+    <title>My Student in Laravel</title>
     <!-- BOOTSTRAP CDN -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
-    <h1>My First Laravel Project</h1>
+    <h1>Student Info</h1>
+    <div>index sample</div>
 
     
         <!-- Bootstrap JS, Popper.js, and jQuery -->
